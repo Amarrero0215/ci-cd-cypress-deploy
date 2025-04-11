@@ -1,0 +1,39 @@
+MIT Custom License (Restricted Modification Clause)
+
+Copyright (c) 2025 Alex Marrero and Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use
+the Software for personal reference and educational purposes only, subject to
+the following conditions:
+
+🚫 Modification Rights:
+The rights to modify, publish, distribute modified versions, or use this Software
+for commercial or production purposes are **strictly limited** to the original authors
+and contributors listed in the GitHub repository.
+
+All other users may read and learn from the code, but may **not** alter or redistribute
+derivative works without explicit written permission from the authors.
+
+✅ Allowed:
+- Cloning for educational purposes
+- Referencing in academic work
+- Running the project locally for learning
+
+❌ Not Allowed:
+- Forking and modifying for reuse
+- Commercial redistribution or deployment
+- Claiming authorship or co-authorship of this work
+
+The above rights are granted under the condition that this LICENSE file remains
+intact and is included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+---
+
+To request modification rights or contributions, contact the original authors
+via the GitHub repository: https://github.com/Amarrero0215/tech-quiz-test-suite
