@@ -123,8 +123,7 @@ You will need the following GitHub secrets configured:
 ## 👨‍💼 Author
 
 **Alex Marrero**  
-[GitHub](https://github.com/alex-dev)  
-[LinkedIn](https://www.linkedin.com/in/alex-marrero)
+[GitHub](https://github.com/Amarrero0215)  
 
 ---
 
