@@ -2,7 +2,8 @@ name: Deploy to Render on Merge to Main
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   deploy:
